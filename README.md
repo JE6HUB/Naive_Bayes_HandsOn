@@ -1,1 +1,1 @@
-# Naive_Bayes_HandsOn
+# Naive Bayes HandsOn
